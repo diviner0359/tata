@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="GBK">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>搬进GitHub</h1>
+	<h2>测试分支合并功能</h2>
+	<!-- 空格折叠 -->
+	<p>
+		那是一个&nbsp;&nbsp;&nbsp;秋天,<br>
+		看着传奇&nbsp;&nbsp;&nbsp;跑偏.<br>
+		奔着克晶&nbsp;&nbsp;&nbsp;而去,<br>
+		误入老苍&nbsp;&nbsp;&nbsp;心间.<br>
+	</p>
+	<!-- 5.图片 -->
+	<!-- 5.1绝对路径:
+		写出图片存放位置的完整路径.
+		这种方式将路径写死了,一旦软件上线时,
+		需要修改项目存放的位置甚至操作系统,
+		则所有图片路径就都错了. -->
+	<!-- 5.2相对路径:
+		写出图片和网页的相对位置即可.
+		软件上线时,无论项目存放在哪里,
+		图片和网页的相对关系不会变. -->
+	<!--
+	<p>
+		<img src="images/pubu.jpg"/>
+	</p> -->
+</body>
+</html>
